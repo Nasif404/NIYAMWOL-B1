@@ -75,7 +75,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FaGaRHqwf9PK28zoOPfigR)
   <div align="center">
        
   </div>
@@ -117,7 +117,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`PrinceRudh`][https://i.imgur.com/UCJs4rC.jpeg?size=200)](https://github.com/Prince-Rudh)
+  [![`Nasif404`]?size=200)](https://github.com/Prince-Rudh)
 
 [`PrinceRudh`](https://github.com/Prince-Rudh)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
