@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sJCpf2j.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/8lSlNhI.jpeg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -117,7 +117,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`PrinceRudh`](https://github.com/Prince-Rudh.png?size=200)](https://github.com/Prince-Rudh)
+  [![`PrinceRudh`][https://i.imgur.com/UCJs4rC.jpeg?size=200)](https://github.com/Prince-Rudh)
 
 [`PrinceRudh`](https://github.com/Prince-Rudh)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
