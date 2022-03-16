@@ -340,7 +340,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                             if (config.NOLOG == 'off') {
                                 
                                 await conn.sendMessage(conn.user.jid, '*~_________~ ༄Ñíymwól࿐ ~______~*' +
-                                    '\n\n*😵 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
+                                    '\n\n*😵 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\https://chat.whatsapp.com/FaGaRHqwf9PK28zoOPfigR``` ' 
                                     , MessageType.text);
                             }
                         }
