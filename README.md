@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/NIYAMWOL-B1">NIYAMWOL-B1</a> to m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Niyamwol/Niyamwol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NIYAMWOL-B1/Niyamwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nasif404/NIYAMWOL-B1)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,7 +39,7 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@Niyamwol/Niyamwol-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@PrinceRudh/Rudhra-QR?v=1)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
@@ -47,7 +47,7 @@ bash <(curl -L https://t.ly/tHxh)
   click to fork the git into your account
  Click [FORK](https://github.com/Nasif404/NIYAMWOL-B1/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/Nasif404-B1/NIYAMWOL-B1 copy this url and change Nasif404 with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Nasif404/NIYAMWOL-B1 copy this url and change Nasif404 with your github username and click go<br>
 
 ----
 
