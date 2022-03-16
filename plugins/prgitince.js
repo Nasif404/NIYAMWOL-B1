@@ -22,7 +22,7 @@ var plk_here = new Date().toLocaleDateString(get_localized_date)
 var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```'
 	const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: '𝗚𝗜𝗧 \n\n\n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n      ☆ ~ɪᴛsᴍᴇ ɴɪʏᴀ ᴍᴡᴏʟ~ ☆ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛ \n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n ┣⍟ \n ┣⍟ *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴘʀɪɴᴄᴇ ʀᴜᴅʜ \n ┣⍟ \n ┣⍟ *ɴᴜᴍʙᴇʀ* : wa.me/919037601967 \n ┣⍟ \n ┣⍟ *ɪɴsᴛᴀ* :https://instagram.com/NASIF - ANSHID \n ┣⍟ \n ┣⍟ *ʏᴛ* :https://youtube.com/NASIF - ANSHID \n ┣⍟ \n ┣⍟ *ʙᴏᴛ ᴠɪᴅᴇᴏ* :https://youtu.be/zUGBjETc7PA \n ┣⍟ \n ┣⍟ *ɢɪᴛ* :https://github.com/Nasif404/NIYAMWOL-B1 \n ┣⍟ \n ┣⍟   \n ┣⍟ \n ┣⍟     ▎▍▌▌▉▏▎▌▉▐▏▌▎\n ┣⍟     ▎▍▌▌▉▏▎▌▉▐▏▌▎ \n ┣⍟         ɴɪʏᴀ ᴍᴡᴏʟ \n ┣⍟ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛ \n ⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟ \n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n ┣⍟        ◩ *ɴɪʏᴀ ᴍᴡᴏʟ* ◪ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: '𝗚𝗜𝗧 \n\n\n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n      ☆ ~ɪᴛsᴍᴇ ɴɪʏᴀ ᴍᴡᴏʟ~ ☆ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛ \n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n ┣⍟ \n ┣⍟ *ᴅᴇᴠᴇʟᴏᴘᴇʀ* :ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ɴᴀsɪғꪶ͢ᡃ⃝__ɴᴊʀᡃ⃝★  \n ┣⍟ \n ┣⍟ *ɴᴜᴍʙᴇʀ* : wa.me/919037601967 \n ┣⍟ \n ┣⍟ *ɪɴsᴛᴀ* :Nasif____7 *anshid_dx \n ┣⍟ \n ┣⍟  \n ┣⍟ \n ┣⍟ *ʙᴏᴛ ᴠɪᴅᴇᴏ* :https://youtu.be/zUGBjETc7PA \n ┣⍟ \n ┣⍟ *ɢɪᴛ* :https://github.com/Nasif404/NIYAMWOL-B1 \n ┣⍟ \n ┣⍟   \n ┣⍟ \n ┣⍟     ▎▍▌▌▉▏▎▌▉▐▏▌▎\n ┣⍟     ▎▍▌▌▉▏▎▌▉▐▏▌▎ \n ┣⍟         ɴɪʏᴀ ᴍᴡᴏʟ \n ┣⍟ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛ \n ⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟ \n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n ┣⍟        ◩ *ɴɪʏᴀ ᴍᴡᴏʟ* ◪ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛'}, type: 1},
 
       ]
       
